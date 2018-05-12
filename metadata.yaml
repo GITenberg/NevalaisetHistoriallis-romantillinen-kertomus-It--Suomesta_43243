@@ -1,0 +1,27 @@
+_repo: NevalaisetHistoriallis-romantillinen-kertomus-It--Suomesta_43243
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergman, Johan Albert
+    alias: Bergman, J. A.
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '6615'
+    url: http://www.gutenberg.org/2009/agents/6615
+description: ''
+gutenberg_issued: '2013-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43243'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: 'Nevalaiset: Historiallis-romantillinen kertomus Itä-Suomesta'
+url: http://www.gutenberg.org/ebooks/43243
